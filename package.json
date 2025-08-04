@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Anupam65.github.io/CICD-First/",
+  "homepage": "https://Anupam65.github.io/CICD-jenkins/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
